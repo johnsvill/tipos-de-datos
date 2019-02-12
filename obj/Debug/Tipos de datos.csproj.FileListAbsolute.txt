@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\obj\Debug\Tipos de datos.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\obj\Debug\Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\bin\Debug\Tipos de datos.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\bin\Debug\Tipos de datos.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\bin\Debug\Tipos de datos.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\obj\Debug\Tipos de datos.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\Tipos de datos\Tipos de datos\obj\Debug\Tipos de datos.pdb
